@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "extractors": [
+    {
+      "id": 0,
+      "enabled": true,
+      "domains": [
+        "https://vsembed.ru/"
+      ]
+    },
+    {
+      "id": 1,
+      "enabled": true,
+      "domains": [
+        "https://vixsrc.to/"
+      ]
+    },
+    {
+      "id": 11,
+      "enabled": true,
+      "domains": [
+        "https://fs16.lol/",
+        "https://fstream.info/"
+      ]
+    },
+    {
+      "id": 12,
+      "enabled": true,
+      "domains": [
+        "https://streamingunity.cc/"
+      ]
+    },
+    {
+      "id": 13,
+      "enabled": false,
+      "domains": []
+    }
+  ]
+}
