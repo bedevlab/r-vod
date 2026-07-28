@@ -3,6 +3,7 @@
   "extractors": [
     {
       "id": 0,
+      "name": "VidSrc",
       "enabled": true,
       "domains": [
         "https://vsembed.ru/"
@@ -10,21 +11,63 @@
     },
     {
       "id": 1,
+      "name": "VixSrc",
       "enabled": true,
-      "domains": [
-        "https://vixsrc.to/"
-      ]
+      "domains": []
+    },
+    {
+      "id": 2,
+      "name": "VidLink",
+      "enabled": false,
+      "domains": []
+    },
+    {
+      "id": 5,
+      "name": "Videasy (Multi)",
+      "enabled": false,
+      "domains": []
+    },
+    {
+      "id": 6,
+      "name": "Vidzee (Multi)",
+      "enabled": false,
+      "domains": []
+    },
+    {
+      "id": 7,
+      "name": "2Embed",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 8,
+      "name": "Vidflix",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 9,
+      "name": "Frembed FR",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 10,
+      "name": "Akwam AR",
+      "enabled": true,
+      "domains": []
     },
     {
       "id": 11,
+      "name": "FrenchStream",
       "enabled": true,
       "domains": [
-        "https://fs16.lol/",
-        "https://fstream.info/"
+        "https://fs16.lol/"
       ]
     },
     {
       "id": 12,
+      "name": "StreamingCommunity",
       "enabled": true,
       "domains": [
         "https://streamingunity.cc/"
@@ -32,7 +75,110 @@
     },
     {
       "id": 13,
+      "name": "Wiflix FR",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 14,
+      "name": "Kidraz FR",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 15,
+      "name": "Mkissa (Anime)",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 16,
+      "name": "GuardaFlix it",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 17,
+      "name": "Doramasflix ES",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 18,
+      "name": "PelisflixHD ES",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 19,
+      "name": "Cuevana ES",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 20,
+      "name": "CineCalidad ES",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 21,
+      "name": "FrenchManga FR",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 22,
+      "name": "FrenchAnime FR",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 23,
+      "name": "FlixLatam ES",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 24,
+      "name": "SeriesFlix ES",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 25,
+      "name": "Altadefinizione IT",
       "enabled": false,
+      "domains": []
+    },
+    {
+      "id": 26,
+      "name": "MEGAKino DE",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 27,
+      "name": "HDbox",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 28,
+      "name": "DramaBox",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 29,
+      "name": "KissKH",
+      "enabled": true,
+      "domains": []
+    },
+    {
+      "id": 30,
+      "name": "Cima Arabic",
+      "enabled": true,
       "domains": []
     }
   ]
